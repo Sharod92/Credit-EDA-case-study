@@ -1,1 +1,1 @@
-This repo contains all files realted to the Credit EDA case study
+Extensive EDA for loan default case study
